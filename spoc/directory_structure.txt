@@ -1,0 +1,3442 @@
+Folder PATH listing
+Volume serial number is F672-BDCC
+F:.
+³   directory_structure.txt
+³   LICENSE
+³   README.md
+³   
+ÃÄÄÄtest
+³       spoc-testp.tsv
+³       spoc-testw.tsv
+³       
+ÃÄÄÄtestcases
+³   ÃÄÄÄ1000A
+³   ³       1000A_testcases.txt
+³   ³       1000A_testcases_hidden.txt
+³   ³       1000A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1003A
+³   ³       1003A_testcases.txt
+³   ³       1003A_testcases_hidden.txt
+³   ³       1003A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1004A
+³   ³       1004A_testcases.txt
+³   ³       1004A_testcases_hidden.txt
+³   ³       1004A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1005A
+³   ³       1005A_testcases.txt
+³   ³       1005A_testcases_hidden.txt
+³   ³       1005A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1006A
+³   ³       1006A_testcases.txt
+³   ³       1006A_testcases_hidden.txt
+³   ³       1006A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1007A
+³   ³       1007A_testcases.txt
+³   ³       1007A_testcases_custom.txt
+³   ³       1007A_testcases_hidden.txt
+³   ³       1007A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1008A
+³   ³       1008A_testcases.txt
+³   ³       1008A_testcases_hidden.txt
+³   ³       1008A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1009A
+³   ³       1009A_testcases.txt
+³   ³       1009A_testcases_hidden.txt
+³   ³       1009A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1011A
+³   ³       1011A_testcases.txt
+³   ³       1011A_testcases_hidden.txt
+³   ³       1011A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1012A
+³   ³       1012A_testcases.txt
+³   ³       1012A_testcases_hidden.txt
+³   ³       1012A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1013A
+³   ³       1013A_testcases.txt
+³   ³       1013A_testcases_hidden.txt
+³   ³       1013A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1015A
+³   ³       1015A_testcases.txt
+³   ³       1015A_testcases_hidden.txt
+³   ³       1015A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1016A
+³   ³       1016A_testcases.txt
+³   ³       1016A_testcases_hidden.txt
+³   ³       1016A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1017A
+³   ³       1017A_testcases.txt
+³   ³       1017A_testcases_hidden.txt
+³   ³       1017A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1019A
+³   ³       1019A_testcases.txt
+³   ³       1019A_testcases_hidden.txt
+³   ³       1019A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1020A
+³   ³       1020A_testcases.txt
+³   ³       1020A_testcases_custom.txt
+³   ³       1020A_testcases_hidden.txt
+³   ³       1020A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1023A
+³   ³       1023A_testcases.txt
+³   ³       1023A_testcases_hidden.txt
+³   ³       1023A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1025A
+³   ³       1025A_testcases.txt
+³   ³       1025A_testcases_hidden.txt
+³   ³       1025A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1027A
+³   ³       1027A_testcases.txt
+³   ³       1027A_testcases_hidden.txt
+³   ³       1027A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1028A
+³   ³       1028A_testcases.txt
+³   ³       1028A_testcases_hidden.txt
+³   ³       1028A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1029A
+³   ³       1029A_testcases.txt
+³   ³       1029A_testcases_hidden.txt
+³   ³       1029A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ102A
+³   ³       102A_testcases.txt
+³   ³       102A_testcases_hidden.txt
+³   ³       102A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1030A
+³   ³       1030A_testcases.txt
+³   ³       1030A_testcases_hidden.txt
+³   ³       1030A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1031A
+³   ³       1031A_testcases.txt
+³   ³       1031A_testcases_hidden.txt
+³   ³       1031A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1032A
+³   ³       1032A_testcases.txt
+³   ³       1032A_testcases_hidden.txt
+³   ³       1032A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1033A
+³   ³       1033A_testcases.txt
+³   ³       1033A_testcases_hidden.txt
+³   ³       1033A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1034A
+³   ³       1034A_testcases.txt
+³   ³       1034A_testcases_hidden.txt
+³   ³       1034A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1036A
+³   ³       1036A_testcases.txt
+³   ³       1036A_testcases_hidden.txt
+³   ³       1036A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1037A
+³   ³       1037A_testcases.txt
+³   ³       1037A_testcases_hidden.txt
+³   ³       1037A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1038A
+³   ³       1038A_testcases.txt
+³   ³       1038A_testcases_hidden.txt
+³   ³       1038A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ103A
+³   ³       103A_testcases.txt
+³   ³       103A_testcases_hidden.txt
+³   ³       103A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1040A
+³   ³       1040A_testcases.txt
+³   ³       1040A_testcases_hidden.txt
+³   ³       1040A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1041A
+³   ³       1041A_testcases.txt
+³   ³       1041A_testcases_hidden.txt
+³   ³       1041A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1042A
+³   ³       1042A_testcases.txt
+³   ³       1042A_testcases_hidden.txt
+³   ³       1042A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1043A
+³   ³       1043A_testcases.txt
+³   ³       1043A_testcases_hidden.txt
+³   ³       1043A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1044A
+³   ³       1044A_testcases.txt
+³   ³       1044A_testcases_hidden.txt
+³   ³       1044A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1047A
+³   ³       1047A_testcases.txt
+³   ³       1047A_testcases_hidden.txt
+³   ³       1047A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ104A
+³   ³       104A_testcases.txt
+³   ³       104A_testcases_hidden.txt
+³   ³       104A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1051A
+³   ³       1051A_testcases.txt
+³   ³       1051A_testcases_hidden.txt
+³   ³       1051A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1054A
+³   ³       1054A_testcases.txt
+³   ³       1054A_testcases_hidden.txt
+³   ³       1054A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1055A
+³   ³       1055A_testcases.txt
+³   ³       1055A_testcases_hidden.txt
+³   ³       1055A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1056A
+³   ³       1056A_testcases.txt
+³   ³       1056A_testcases_hidden.txt
+³   ³       1056A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1057A
+³   ³       1057A_testcases.txt
+³   ³       1057A_testcases_hidden.txt
+³   ³       1057A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1059A
+³   ³       1059A_testcases.txt
+³   ³       1059A_testcases_hidden.txt
+³   ³       1059A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ105A
+³   ³       105A_testcases.txt
+³   ³       105A_testcases_hidden.txt
+³   ³       105A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1060A
+³   ³       1060A_testcases.txt
+³   ³       1060A_testcases_hidden.txt
+³   ³       1060A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1061A
+³   ³       1061A_testcases.txt
+³   ³       1061A_testcases_hidden.txt
+³   ³       1061A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1062A
+³   ³       1062A_testcases.txt
+³   ³       1062A_testcases_hidden.txt
+³   ³       1062A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1063A
+³   ³       1063A_testcases.txt
+³   ³       1063A_testcases_hidden.txt
+³   ³       1063A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1064A
+³   ³       1064A_testcases.txt
+³   ³       1064A_testcases_hidden.txt
+³   ³       1064A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1065A
+³   ³       1065A_testcases.txt
+³   ³       1065A_testcases_custom.txt
+³   ³       1065A_testcases_hidden.txt
+³   ³       1065A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1066A
+³   ³       1066A_testcases.txt
+³   ³       1066A_testcases_hidden.txt
+³   ³       1066A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1067A
+³   ³       1067A_testcases.txt
+³   ³       1067A_testcases_hidden.txt
+³   ³       1067A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1068A
+³   ³       1068A_testcases.txt
+³   ³       1068A_testcases_hidden.txt
+³   ³       1068A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ106A
+³   ³       106A_testcases.txt
+³   ³       106A_testcases_hidden.txt
+³   ³       106A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1073A
+³   ³       1073A_testcases.txt
+³   ³       1073A_testcases_hidden.txt
+³   ³       1073A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1075A
+³   ³       1075A_testcases.txt
+³   ³       1075A_testcases_hidden.txt
+³   ³       1075A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1076A
+³   ³       1076A_testcases.txt
+³   ³       1076A_testcases_hidden.txt
+³   ³       1076A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1077A
+³   ³       1077A_testcases.txt
+³   ³       1077A_testcases_custom.txt
+³   ³       1077A_testcases_hidden.txt
+³   ³       1077A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ107A
+³   ³       107A_testcases.txt
+³   ³       107A_testcases_hidden.txt
+³   ³       107A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1080A
+³   ³       1080A_testcases.txt
+³   ³       1080A_testcases_hidden.txt
+³   ³       1080A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1081A
+³   ³       1081A_testcases.txt
+³   ³       1081A_testcases_hidden.txt
+³   ³       1081A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1082A
+³   ³       1082A_testcases.txt
+³   ³       1082A_testcases_hidden.txt
+³   ³       1082A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1083A
+³   ³       1083A_testcases.txt
+³   ³       1083A_testcases_hidden.txt
+³   ³       1083A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1084A
+³   ³       1084A_testcases.txt
+³   ³       1084A_testcases_hidden.txt
+³   ³       1084A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1085A
+³   ³       1085A_testcases.txt
+³   ³       1085A_testcases_hidden.txt
+³   ³       1085A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1088A
+³   ³       1088A_testcases.txt
+³   ³       1088A_testcases_hidden.txt
+³   ³       1088A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ108A
+³   ³       108A_testcases.txt
+³   ³       108A_testcases_hidden.txt
+³   ³       108A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1090A
+³   ³       1090A_testcases.txt
+³   ³       1090A_testcases_custom.txt
+³   ³       1090A_testcases_hidden.txt
+³   ³       1090A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1091A
+³   ³       1091A_testcases.txt
+³   ³       1091A_testcases_hidden.txt
+³   ³       1091A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1092A
+³   ³       1092A_testcases.txt
+³   ³       1092A_testcases_custom.txt
+³   ³       1092A_testcases_hidden.txt
+³   ³       1092A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1093A
+³   ³       1093A_testcases.txt
+³   ³       1093A_testcases_custom.txt
+³   ³       1093A_testcases_hidden.txt
+³   ³       1093A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1095A
+³   ³       1095A_testcases.txt
+³   ³       1095A_testcases_hidden.txt
+³   ³       1095A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1096A
+³   ³       1096A_testcases.txt
+³   ³       1096A_testcases_custom.txt
+³   ³       1096A_testcases_hidden.txt
+³   ³       1096A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1097A
+³   ³       1097A_testcases.txt
+³   ³       1097A_testcases_hidden.txt
+³   ³       1097A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1098A
+³   ³       1098A_testcases.txt
+³   ³       1098A_testcases_hidden.txt
+³   ³       1098A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1099A
+³   ³       1099A_testcases.txt
+³   ³       1099A_testcases_hidden.txt
+³   ³       1099A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ109A
+³   ³       109A_testcases.txt
+³   ³       109A_testcases_hidden.txt
+³   ³       109A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ10A
+³   ³       10A_testcases.txt
+³   ³       10A_testcases_hidden.txt
+³   ³       10A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1100A
+³   ³       1100A_testcases.txt
+³   ³       1100A_testcases_hidden.txt
+³   ³       1100A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1101A
+³   ³       1101A_testcases.txt
+³   ³       1101A_testcases_hidden.txt
+³   ³       1101A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1102A
+³   ³       1102A_testcases.txt
+³   ³       1102A_testcases_hidden.txt
+³   ³       1102A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1103A
+³   ³       1103A_testcases.txt
+³   ³       1103A_testcases_custom.txt
+³   ³       1103A_testcases_hidden.txt
+³   ³       1103A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1104A
+³   ³       1104A_testcases.txt
+³   ³       1104A_testcases_hidden.txt
+³   ³       1104A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1105A
+³   ³       1105A_testcases.txt
+³   ³       1105A_testcases_hidden.txt
+³   ³       1105A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1107A
+³   ³       1107A_testcases.txt
+³   ³       1107A_testcases_custom.txt
+³   ³       1107A_testcases_hidden.txt
+³   ³       1107A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ110A
+³   ³       110A_testcases.txt
+³   ³       110A_testcases_hidden.txt
+³   ³       110A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ112A
+³   ³       112A_testcases.txt
+³   ³       112A_testcases_hidden.txt
+³   ³       112A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ113A
+³   ³       113A_testcases.txt
+³   ³       113A_testcases_hidden.txt
+³   ³       113A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ114A
+³   ³       114A_testcases.txt
+³   ³       114A_testcases_hidden.txt
+³   ³       114A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ115A
+³   ³       115A_testcases.txt
+³   ³       115A_testcases_hidden.txt
+³   ³       115A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ116A
+³   ³       116A_testcases.txt
+³   ³       116A_testcases_hidden.txt
+³   ³       116A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ117A
+³   ³       117A_testcases.txt
+³   ³       117A_testcases_hidden.txt
+³   ³       117A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ118A
+³   ³       118A_testcases.txt
+³   ³       118A_testcases_hidden.txt
+³   ³       118A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ119A
+³   ³       119A_testcases.txt
+³   ³       119A_testcases_hidden.txt
+³   ³       119A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ11A
+³   ³       11A_testcases.txt
+³   ³       11A_testcases_hidden.txt
+³   ³       11A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ121A
+³   ³       121A_testcases.txt
+³   ³       121A_testcases_hidden.txt
+³   ³       121A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ122A
+³   ³       122A_testcases.txt
+³   ³       122A_testcases_hidden.txt
+³   ³       122A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ123A
+³   ³       123A_testcases.txt
+³   ³       123A_testcases_hidden.txt
+³   ³       123A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ124A
+³   ³       124A_testcases.txt
+³   ³       124A_testcases_hidden.txt
+³   ³       124A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ125A
+³   ³       125A_testcases.txt
+³   ³       125A_testcases_hidden.txt
+³   ³       125A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ126A
+³   ³       126A_testcases.txt
+³   ³       126A_testcases_hidden.txt
+³   ³       126A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ127A
+³   ³       127A_testcases.txt
+³   ³       127A_testcases_hidden.txt
+³   ³       127A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ12A
+³   ³       12A_testcases.txt
+³   ³       12A_testcases_hidden.txt
+³   ³       12A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ13A
+³   ³       13A_testcases.txt
+³   ³       13A_testcases_hidden.txt
+³   ³       13A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ144A
+³   ³       144A_testcases.txt
+³   ³       144A_testcases_hidden.txt
+³   ³       144A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ145A
+³   ³       145A_testcases.txt
+³   ³       145A_testcases_hidden.txt
+³   ³       145A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ146A
+³   ³       146A_testcases.txt
+³   ³       146A_testcases_hidden.txt
+³   ³       146A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ147A
+³   ³       147A_testcases.txt
+³   ³       147A_testcases_hidden.txt
+³   ³       147A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ148A
+³   ³       148A_testcases.txt
+³   ³       148A_testcases_hidden.txt
+³   ³       148A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ149A
+³   ³       149A_testcases.txt
+³   ³       149A_testcases_hidden.txt
+³   ³       149A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ14A
+³   ³       14A_testcases.txt
+³   ³       14A_testcases_hidden.txt
+³   ³       14A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ150A
+³   ³       150A_testcases.txt
+³   ³       150A_testcases_hidden.txt
+³   ³       150A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ151A
+³   ³       151A_testcases.txt
+³   ³       151A_testcases_hidden.txt
+³   ³       151A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ152A
+³   ³       152A_testcases.txt
+³   ³       152A_testcases_hidden.txt
+³   ³       152A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ154A
+³   ³       154A_testcases.txt
+³   ³       154A_testcases_hidden.txt
+³   ³       154A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ155A
+³   ³       155A_testcases.txt
+³   ³       155A_testcases_hidden.txt
+³   ³       155A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ156A
+³   ³       156A_testcases.txt
+³   ³       156A_testcases_hidden.txt
+³   ³       156A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ157A
+³   ³       157A_testcases.txt
+³   ³       157A_testcases_hidden.txt
+³   ³       157A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ158A
+³   ³       158A_testcases.txt
+³   ³       158A_testcases_hidden.txt
+³   ³       158A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ159A
+³   ³       159A_testcases.txt
+³   ³       159A_testcases_hidden.txt
+³   ³       159A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ15A
+³   ³       15A_testcases.txt
+³   ³       15A_testcases_hidden.txt
+³   ³       15A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ160A
+³   ³       160A_testcases.txt
+³   ³       160A_testcases_hidden.txt
+³   ³       160A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ161A
+³   ³       161A_testcases.txt
+³   ³       161A_testcases_hidden.txt
+³   ³       161A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ163A
+³   ³       163A_testcases.txt
+³   ³       163A_testcases_hidden.txt
+³   ³       163A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ164A
+³   ³       164A_testcases.txt
+³   ³       164A_testcases_hidden.txt
+³   ³       164A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ165A
+³   ³       165A_testcases.txt
+³   ³       165A_testcases_hidden.txt
+³   ³       165A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ166A
+³   ³       166A_testcases.txt
+³   ³       166A_testcases_hidden.txt
+³   ³       166A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ167A
+³   ³       167A_testcases.txt
+³   ³       167A_testcases_hidden.txt
+³   ³       167A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ168A
+³   ³       168A_testcases.txt
+³   ³       168A_testcases_hidden.txt
+³   ³       168A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ169A
+³   ³       169A_testcases.txt
+³   ³       169A_testcases_hidden.txt
+³   ³       169A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ16A
+³   ³       16A_testcases.txt
+³   ³       16A_testcases_hidden.txt
+³   ³       16A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ171A
+³   ³       171A_testcases.txt
+³   ³       171A_testcases_hidden.txt
+³   ³       171A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ172A
+³   ³       172A_testcases.txt
+³   ³       172A_testcases_hidden.txt
+³   ³       172A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ173A
+³   ³       173A_testcases.txt
+³   ³       173A_testcases_hidden.txt
+³   ³       173A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ174A
+³   ³       174A_testcases.txt
+³   ³       174A_testcases_hidden.txt
+³   ³       174A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ175A
+³   ³       175A_testcases.txt
+³   ³       175A_testcases_hidden.txt
+³   ³       175A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ176A
+³   ³       176A_testcases.txt
+³   ³       176A_testcases_hidden.txt
+³   ³       176A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ178A1
+³   ³       178A1_testcases.txt
+³   ³       178A1_testcases_custom.txt
+³   ³       178A1_testcases_hidden.txt
+³   ³       178A1_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ178A2
+³   ³       178A2_testcases.txt
+³   ³       178A2_testcases_custom.txt
+³   ³       178A2_testcases_hidden.txt
+³   ³       178A2_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ178A3
+³   ³       178A3_testcases.txt
+³   ³       178A3_testcases_custom.txt
+³   ³       178A3_testcases_hidden.txt
+³   ³       178A3_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ17A
+³   ³       17A_testcases.txt
+³   ³       17A_testcases_hidden.txt
+³   ³       17A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ181A
+³   ³       181A_testcases.txt
+³   ³       181A_testcases_hidden.txt
+³   ³       181A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ183A
+³   ³       183A_testcases.txt
+³   ³       183A_testcases_hidden.txt
+³   ³       183A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ185A
+³   ³       185A_testcases.txt
+³   ³       185A_testcases_hidden.txt
+³   ³       185A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ186A
+³   ³       186A_testcases.txt
+³   ³       186A_testcases_hidden.txt
+³   ³       186A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ187A
+³   ³       187A_testcases.txt
+³   ³       187A_testcases_hidden.txt
+³   ³       187A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ189A
+³   ³       189A_testcases.txt
+³   ³       189A_testcases_hidden.txt
+³   ³       189A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ18A
+³   ³       18A_testcases.txt
+³   ³       18A_testcases_hidden.txt
+³   ³       18A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ190A
+³   ³       190A_testcases.txt
+³   ³       190A_testcases_hidden.txt
+³   ³       190A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ191A
+³   ³       191A_testcases.txt
+³   ³       191A_testcases_hidden.txt
+³   ³       191A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ192A
+³   ³       192A_testcases.txt
+³   ³       192A_testcases_hidden.txt
+³   ³       192A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ193A
+³   ³       193A_testcases.txt
+³   ³       193A_testcases_hidden.txt
+³   ³       193A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ194A
+³   ³       194A_testcases.txt
+³   ³       194A_testcases_hidden.txt
+³   ³       194A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ195A
+³   ³       195A_testcases.txt
+³   ³       195A_testcases_hidden.txt
+³   ³       195A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ196A
+³   ³       196A_testcases.txt
+³   ³       196A_testcases_hidden.txt
+³   ³       196A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ197A
+³   ³       197A_testcases.txt
+³   ³       197A_testcases_hidden.txt
+³   ³       197A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ198A
+³   ³       198A_testcases.txt
+³   ³       198A_testcases_hidden.txt
+³   ³       198A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ19A
+³   ³       19A_testcases.txt
+³   ³       19A_testcases_custom.txt
+³   ³       19A_testcases_hidden.txt
+³   ³       19A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ1A
+³   ³       1A_testcases.txt
+³   ³       1A_testcases_hidden.txt
+³   ³       1A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ200A
+³   ³       200A_testcases.txt
+³   ³       200A_testcases_custom.txt
+³   ³       200A_testcases_hidden.txt
+³   ³       200A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ201A
+³   ³       201A_testcases.txt
+³   ³       201A_testcases_hidden.txt
+³   ³       201A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ202A
+³   ³       202A_testcases.txt
+³   ³       202A_testcases_hidden.txt
+³   ³       202A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ203A
+³   ³       203A_testcases.txt
+³   ³       203A_testcases_hidden.txt
+³   ³       203A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ204A
+³   ³       204A_testcases.txt
+³   ³       204A_testcases_hidden.txt
+³   ³       204A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ205A
+³   ³       205A_testcases.txt
+³   ³       205A_testcases_hidden.txt
+³   ³       205A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ207A1
+³   ³       207A1_testcases.txt
+³   ³       207A1_testcases_custom.txt
+³   ³       207A1_testcases_hidden.txt
+³   ³       207A1_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ207A2
+³   ³       207A2_testcases.txt
+³   ³       207A2_testcases_hidden.txt
+³   ³       207A2_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ207A3
+³   ³       207A3_testcases.txt
+³   ³       207A3_testcases_custom.txt
+³   ³       207A3_testcases_hidden.txt
+³   ³       207A3_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ209A
+³   ³       209A_testcases.txt
+³   ³       209A_testcases_hidden.txt
+³   ³       209A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ20A
+³   ³       20A_testcases.txt
+³   ³       20A_testcases_hidden.txt
+³   ³       20A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ213A
+³   ³       213A_testcases.txt
+³   ³       213A_testcases_hidden.txt
+³   ³       213A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ214A
+³   ³       214A_testcases.txt
+³   ³       214A_testcases_hidden.txt
+³   ³       214A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ215A
+³   ³       215A_testcases.txt
+³   ³       215A_testcases_hidden.txt
+³   ³       215A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ216A
+³   ³       216A_testcases.txt
+³   ³       216A_testcases_hidden.txt
+³   ³       216A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ217A
+³   ³       217A_testcases.txt
+³   ³       217A_testcases_hidden.txt
+³   ³       217A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ218A
+³   ³       218A_testcases.txt
+³   ³       218A_testcases_hidden.txt
+³   ³       218A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ219A
+³   ³       219A_testcases.txt
+³   ³       219A_testcases_hidden.txt
+³   ³       219A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ21A
+³   ³       21A_testcases.txt
+³   ³       21A_testcases_hidden.txt
+³   ³       21A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ220A
+³   ³       220A_testcases.txt
+³   ³       220A_testcases_hidden.txt
+³   ³       220A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ221A
+³   ³       221A_testcases.txt
+³   ³       221A_testcases_hidden.txt
+³   ³       221A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ222A
+³   ³       222A_testcases.txt
+³   ³       222A_testcases_hidden.txt
+³   ³       222A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ224A
+³   ³       224A_testcases.txt
+³   ³       224A_testcases_hidden.txt
+³   ³       224A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ225A
+³   ³       225A_testcases.txt
+³   ³       225A_testcases_hidden.txt
+³   ³       225A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ226A
+³   ³       226A_testcases.txt
+³   ³       226A_testcases_hidden.txt
+³   ³       226A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ227A
+³   ³       227A_testcases.txt
+³   ³       227A_testcases_hidden.txt
+³   ³       227A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ228A
+³   ³       228A_testcases.txt
+³   ³       228A_testcases_hidden.txt
+³   ³       228A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ229A
+³   ³       229A_testcases.txt
+³   ³       229A_testcases_hidden.txt
+³   ³       229A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ22A
+³   ³       22A_testcases.txt
+³   ³       22A_testcases_hidden.txt
+³   ³       22A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ230A
+³   ³       230A_testcases.txt
+³   ³       230A_testcases_hidden.txt
+³   ³       230A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ231A
+³   ³       231A_testcases.txt
+³   ³       231A_testcases_hidden.txt
+³   ³       231A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ232A
+³   ³       232A_testcases.txt
+³   ³       232A_testcases_hidden.txt
+³   ³       232A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ233A
+³   ³       233A_testcases.txt
+³   ³       233A_testcases_hidden.txt
+³   ³       233A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ234A
+³   ³       234A_testcases.txt
+³   ³       234A_testcases_hidden.txt
+³   ³       234A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ235A
+³   ³       235A_testcases.txt
+³   ³       235A_testcases_hidden.txt
+³   ³       235A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ236A
+³   ³       236A_testcases.txt
+³   ³       236A_testcases_hidden.txt
+³   ³       236A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ237A
+³   ³       237A_testcases.txt
+³   ³       237A_testcases_hidden.txt
+³   ³       237A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ238A
+³   ³       238A_testcases.txt
+³   ³       238A_testcases_hidden.txt
+³   ³       238A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ239A
+³   ³       239A_testcases.txt
+³   ³       239A_testcases_hidden.txt
+³   ³       239A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ23A
+³   ³       23A_testcases.txt
+³   ³       23A_testcases_hidden.txt
+³   ³       23A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ241A
+³   ³       241A_testcases.txt
+³   ³       241A_testcases_custom.txt
+³   ³       241A_testcases_hidden.txt
+³   ³       241A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ24A
+³   ³       24A_testcases.txt
+³   ³       24A_testcases_hidden.txt
+³   ³       24A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ250A
+³   ³       250A_testcases.txt
+³   ³       250A_testcases_hidden.txt
+³   ³       250A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ251A
+³   ³       251A_testcases.txt
+³   ³       251A_testcases_hidden.txt
+³   ³       251A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ252A
+³   ³       252A_testcases.txt
+³   ³       252A_testcases_hidden.txt
+³   ³       252A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ255A
+³   ³       255A_testcases.txt
+³   ³       255A_testcases_hidden.txt
+³   ³       255A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ257A
+³   ³       257A_testcases.txt
+³   ³       257A_testcases_hidden.txt
+³   ³       257A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ258A
+³   ³       258A_testcases.txt
+³   ³       258A_testcases_hidden.txt
+³   ³       258A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ259A
+³   ³       259A_testcases.txt
+³   ³       259A_testcases_hidden.txt
+³   ³       259A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ25A
+³   ³       25A_testcases.txt
+³   ³       25A_testcases_hidden.txt
+³   ³       25A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ260A
+³   ³       260A_testcases.txt
+³   ³       260A_testcases_hidden.txt
+³   ³       260A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ261A
+³   ³       261A_testcases.txt
+³   ³       261A_testcases_hidden.txt
+³   ³       261A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ262A
+³   ³       262A_testcases.txt
+³   ³       262A_testcases_hidden.txt
+³   ³       262A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ263A
+³   ³       263A_testcases.txt
+³   ³       263A_testcases_hidden.txt
+³   ³       263A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ264A
+³   ³       264A_testcases.txt
+³   ³       264A_testcases_hidden.txt
+³   ³       264A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ265A
+³   ³       265A_testcases.txt
+³   ³       265A_testcases_hidden.txt
+³   ³       265A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ266A
+³   ³       266A_testcases.txt
+³   ³       266A_testcases_hidden.txt
+³   ³       266A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ267A
+³   ³       267A_testcases.txt
+³   ³       267A_testcases_custom.txt
+³   ³       267A_testcases_hidden.txt
+³   ³       267A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ268A
+³   ³       268A_testcases.txt
+³   ³       268A_testcases_hidden.txt
+³   ³       268A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ269A
+³   ³       269A_testcases.txt
+³   ³       269A_testcases_hidden.txt
+³   ³       269A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ270A
+³   ³       270A_testcases.txt
+³   ³       270A_testcases_custom.txt
+³   ³       270A_testcases_hidden.txt
+³   ³       270A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ271A
+³   ³       271A_testcases.txt
+³   ³       271A_testcases_hidden.txt
+³   ³       271A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ272A
+³   ³       272A_testcases.txt
+³   ³       272A_testcases_hidden.txt
+³   ³       272A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ274A
+³   ³       274A_testcases.txt
+³   ³       274A_testcases_hidden.txt
+³   ³       274A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ275A
+³   ³       275A_testcases.txt
+³   ³       275A_testcases_hidden.txt
+³   ³       275A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ276A
+³   ³       276A_testcases.txt
+³   ³       276A_testcases_hidden.txt
+³   ³       276A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ277A
+³   ³       277A_testcases.txt
+³   ³       277A_testcases_hidden.txt
+³   ³       277A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ278A
+³   ³       278A_testcases.txt
+³   ³       278A_testcases_hidden.txt
+³   ³       278A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ279A
+³   ³       279A_testcases.txt
+³   ³       279A_testcases_hidden.txt
+³   ³       279A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ281A
+³   ³       281A_testcases.txt
+³   ³       281A_testcases_hidden.txt
+³   ³       281A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ282A
+³   ³       282A_testcases.txt
+³   ³       282A_testcases_hidden.txt
+³   ³       282A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ284A
+³   ³       284A_testcases.txt
+³   ³       284A_testcases_hidden.txt
+³   ³       284A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ286A
+³   ³       286A_testcases.txt
+³   ³       286A_testcases_hidden.txt
+³   ³       286A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ287A
+³   ³       287A_testcases.txt
+³   ³       287A_testcases_hidden.txt
+³   ³       287A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ288A
+³   ³       288A_testcases.txt
+³   ³       288A_testcases_hidden.txt
+³   ³       288A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ289A
+³   ³       289A_testcases.txt
+³   ³       289A_testcases_hidden.txt
+³   ³       289A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ290A
+³   ³       290A_testcases.txt
+³   ³       290A_testcases_hidden.txt
+³   ³       290A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ291A
+³   ³       291A_testcases.txt
+³   ³       291A_testcases_hidden.txt
+³   ³       291A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ2A
+³   ³       2A_testcases.txt
+³   ³       2A_testcases_custom.txt
+³   ³       2A_testcases_hidden.txt
+³   ³       2A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ311A
+³   ³       311A_testcases.txt
+³   ³       311A_testcases_hidden.txt
+³   ³       311A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ313A
+³   ³       313A_testcases.txt
+³   ³       313A_testcases_hidden.txt
+³   ³       313A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ314A
+³   ³       314A_testcases.txt
+³   ³       314A_testcases_custom.txt
+³   ³       314A_testcases_hidden.txt
+³   ³       314A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ315A
+³   ³       315A_testcases.txt
+³   ³       315A_testcases_hidden.txt
+³   ³       315A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ317A
+³   ³       317A_testcases.txt
+³   ³       317A_testcases_hidden.txt
+³   ³       317A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ318A
+³   ³       318A_testcases.txt
+³   ³       318A_testcases_hidden.txt
+³   ³       318A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ319A
+³   ³       319A_testcases.txt
+³   ³       319A_testcases_hidden.txt
+³   ³       319A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ320A
+³   ³       320A_testcases.txt
+³   ³       320A_testcases_hidden.txt
+³   ³       320A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ321A
+³   ³       321A_testcases.txt
+³   ³       321A_testcases_hidden.txt
+³   ³       321A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ322A
+³   ³       322A_testcases.txt
+³   ³       322A_testcases_hidden.txt
+³   ³       322A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ323A
+³   ³       323A_testcases.txt
+³   ³       323A_testcases_hidden.txt
+³   ³       323A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ325A
+³   ³       325A_testcases.txt
+³   ³       325A_testcases_hidden.txt
+³   ³       325A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ327A
+³   ³       327A_testcases.txt
+³   ³       327A_testcases_hidden.txt
+³   ³       327A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ328A
+³   ³       328A_testcases.txt
+³   ³       328A_testcases_hidden.txt
+³   ³       328A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ329A
+³   ³       329A_testcases.txt
+³   ³       329A_testcases_hidden.txt
+³   ³       329A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ330A
+³   ³       330A_testcases.txt
+³   ³       330A_testcases_hidden.txt
+³   ³       330A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ332A
+³   ³       332A_testcases.txt
+³   ³       332A_testcases_hidden.txt
+³   ³       332A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ333A
+³   ³       333A_testcases.txt
+³   ³       333A_testcases_hidden.txt
+³   ³       333A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ335A
+³   ³       335A_testcases.txt
+³   ³       335A_testcases_hidden.txt
+³   ³       335A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ336A
+³   ³       336A_testcases.txt
+³   ³       336A_testcases_hidden.txt
+³   ³       336A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ337A
+³   ³       337A_testcases.txt
+³   ³       337A_testcases_hidden.txt
+³   ³       337A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ339A
+³   ³       339A_testcases.txt
+³   ³       339A_testcases_hidden.txt
+³   ³       339A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ340A
+³   ³       340A_testcases.txt
+³   ³       340A_testcases_hidden.txt
+³   ³       340A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ346A
+³   ³       346A_testcases.txt
+³   ³       346A_testcases_hidden.txt
+³   ³       346A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ347A
+³   ³       347A_testcases.txt
+³   ³       347A_testcases_hidden.txt
+³   ³       347A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ348A
+³   ³       348A_testcases.txt
+³   ³       348A_testcases_hidden.txt
+³   ³       348A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ349A
+³   ³       349A_testcases.txt
+³   ³       349A_testcases_hidden.txt
+³   ³       349A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ350A
+³   ³       350A_testcases.txt
+³   ³       350A_testcases_hidden.txt
+³   ³       350A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ351A
+³   ³       351A_testcases.txt
+³   ³       351A_testcases_hidden.txt
+³   ³       351A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ352A
+³   ³       352A_testcases.txt
+³   ³       352A_testcases_hidden.txt
+³   ³       352A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ353A
+³   ³       353A_testcases.txt
+³   ³       353A_testcases_hidden.txt
+³   ³       353A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ354A
+³   ³       354A_testcases.txt
+³   ³       354A_testcases_hidden.txt
+³   ³       354A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ355A
+³   ³       355A_testcases.txt
+³   ³       355A_testcases_hidden.txt
+³   ³       355A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ356A
+³   ³       356A_testcases.txt
+³   ³       356A_testcases_hidden.txt
+³   ³       356A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ357A
+³   ³       357A_testcases.txt
+³   ³       357A_testcases_hidden.txt
+³   ³       357A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ358A
+³   ³       358A_testcases.txt
+³   ³       358A_testcases_hidden.txt
+³   ³       358A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ359A
+³   ³       359A_testcases.txt
+³   ³       359A_testcases_hidden.txt
+³   ³       359A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ360A
+³   ³       360A_testcases.txt
+³   ³       360A_testcases_hidden.txt
+³   ³       360A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ362A
+³   ³       362A_testcases.txt
+³   ³       362A_testcases_custom.txt
+³   ³       362A_testcases_hidden.txt
+³   ³       362A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ363A
+³   ³       363A_testcases.txt
+³   ³       363A_testcases_hidden.txt
+³   ³       363A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ364A
+³   ³       364A_testcases.txt
+³   ³       364A_testcases_hidden.txt
+³   ³       364A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ365A
+³   ³       365A_testcases.txt
+³   ³       365A_testcases_hidden.txt
+³   ³       365A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ389A
+³   ³       389A_testcases.txt
+³   ³       389A_testcases_hidden.txt
+³   ³       389A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ390A
+³   ³       390A_testcases.txt
+³   ³       390A_testcases_hidden.txt
+³   ³       390A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ391A
+³   ³       391A_testcases.txt
+³   ³       391A_testcases_hidden.txt
+³   ³       391A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ392A
+³   ³       392A_testcases.txt
+³   ³       392A_testcases_hidden.txt
+³   ³       392A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ393A
+³   ³       393A_testcases.txt
+³   ³       393A_testcases_hidden.txt
+³   ³       393A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ394A
+³   ³       394A_testcases.txt
+³   ³       394A_testcases_hidden.txt
+³   ³       394A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ396A
+³   ³       396A_testcases.txt
+³   ³       396A_testcases_hidden.txt
+³   ³       396A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ397A
+³   ³       397A_testcases.txt
+³   ³       397A_testcases_hidden.txt
+³   ³       397A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ398A
+³   ³       398A_testcases.txt
+³   ³       398A_testcases_hidden.txt
+³   ³       398A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ399A
+³   ³       399A_testcases.txt
+³   ³       399A_testcases_hidden.txt
+³   ³       399A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ3A
+³   ³       3A_testcases.txt
+³   ³       3A_testcases_hidden.txt
+³   ³       3A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ401A
+³   ³       401A_testcases.txt
+³   ³       401A_testcases_hidden.txt
+³   ³       401A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ402A
+³   ³       402A_testcases.txt
+³   ³       402A_testcases_hidden.txt
+³   ³       402A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ404A
+³   ³       404A_testcases.txt
+³   ³       404A_testcases_hidden.txt
+³   ³       404A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ405A
+³   ³       405A_testcases.txt
+³   ³       405A_testcases_hidden.txt
+³   ³       405A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ407A
+³   ³       407A_testcases.txt
+³   ³       407A_testcases_hidden.txt
+³   ³       407A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ408A
+³   ³       408A_testcases.txt
+³   ³       408A_testcases_hidden.txt
+³   ³       408A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ409A
+³   ³       409A_testcases.txt
+³   ³       409A_testcases_hidden.txt
+³   ³       409A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ40A
+³   ³       40A_testcases.txt
+³   ³       40A_testcases_hidden.txt
+³   ³       40A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ411A
+³   ³       411A_testcases.txt
+³   ³       411A_testcases_hidden.txt
+³   ³       411A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ412A
+³   ³       412A_testcases.txt
+³   ³       412A_testcases_hidden.txt
+³   ³       412A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ413A
+³   ³       413A_testcases.txt
+³   ³       413A_testcases_hidden.txt
+³   ³       413A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ41A
+³   ³       41A_testcases.txt
+³   ³       41A_testcases_hidden.txt
+³   ³       41A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ42A
+³   ³       42A_testcases.txt
+³   ³       42A_testcases_hidden.txt
+³   ³       42A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ439A
+³   ³       439A_testcases.txt
+³   ³       439A_testcases_hidden.txt
+³   ³       439A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ43A
+³   ³       43A_testcases.txt
+³   ³       43A_testcases_hidden.txt
+³   ³       43A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ440A
+³   ³       440A_testcases.txt
+³   ³       440A_testcases_hidden.txt
+³   ³       440A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ441A
+³   ³       441A_testcases.txt
+³   ³       441A_testcases_hidden.txt
+³   ³       441A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ442A
+³   ³       442A_testcases.txt
+³   ³       442A_testcases_hidden.txt
+³   ³       442A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ443A
+³   ³       443A_testcases.txt
+³   ³       443A_testcases_hidden.txt
+³   ³       443A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ444A
+³   ³       444A_testcases.txt
+³   ³       444A_testcases_hidden.txt
+³   ³       444A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ445A
+³   ³       445A_testcases.txt
+³   ³       445A_testcases_hidden.txt
+³   ³       445A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ446A
+³   ³       446A_testcases.txt
+³   ³       446A_testcases_hidden.txt
+³   ³       446A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ447A
+³   ³       447A_testcases.txt
+³   ³       447A_testcases_hidden.txt
+³   ³       447A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ448A
+³   ³       448A_testcases.txt
+³   ³       448A_testcases_hidden.txt
+³   ³       448A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ449A
+³   ³       449A_testcases.txt
+³   ³       449A_testcases_hidden.txt
+³   ³       449A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ44A
+³   ³       44A_testcases.txt
+³   ³       44A_testcases_hidden.txt
+³   ³       44A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ450A
+³   ³       450A_testcases.txt
+³   ³       450A_testcases_hidden.txt
+³   ³       450A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ451A
+³   ³       451A_testcases.txt
+³   ³       451A_testcases_hidden.txt
+³   ³       451A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ452A
+³   ³       452A_testcases.txt
+³   ³       452A_testcases_hidden.txt
+³   ³       452A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ454A
+³   ³       454A_testcases.txt
+³   ³       454A_testcases_custom.txt
+³   ³       454A_testcases_hidden.txt
+³   ³       454A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ455A
+³   ³       455A_testcases.txt
+³   ³       455A_testcases_hidden.txt
+³   ³       455A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ456A
+³   ³       456A_testcases.txt
+³   ³       456A_testcases_hidden.txt
+³   ³       456A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ457A
+³   ³       457A_testcases.txt
+³   ³       457A_testcases_hidden.txt
+³   ³       457A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ45A
+³   ³       45A_testcases.txt
+³   ³       45A_testcases_hidden.txt
+³   ³       45A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ460A
+³   ³       460A_testcases.txt
+³   ³       460A_testcases_hidden.txt
+³   ³       460A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ461A
+³   ³       461A_testcases.txt
+³   ³       461A_testcases_hidden.txt
+³   ³       461A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ462A
+³   ³       462A_testcases.txt
+³   ³       462A_testcases_hidden.txt
+³   ³       462A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ463A
+³   ³       463A_testcases.txt
+³   ³       463A_testcases_hidden.txt
+³   ³       463A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ464A
+³   ³       464A_testcases.txt
+³   ³       464A_testcases_hidden.txt
+³   ³       464A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ465A
+³   ³       465A_testcases.txt
+³   ³       465A_testcases_hidden.txt
+³   ³       465A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ466A
+³   ³       466A_testcases.txt
+³   ³       466A_testcases_hidden.txt
+³   ³       466A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ467A
+³   ³       467A_testcases.txt
+³   ³       467A_testcases_hidden.txt
+³   ³       467A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ468A
+³   ³       468A_testcases.txt
+³   ³       468A_testcases_hidden.txt
+³   ³       468A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ469A
+³   ³       469A_testcases.txt
+³   ³       469A_testcases_hidden.txt
+³   ³       469A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ46A
+³   ³       46A_testcases.txt
+³   ³       46A_testcases_hidden.txt
+³   ³       46A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ471A
+³   ³       471A_testcases.txt
+³   ³       471A_testcases_hidden.txt
+³   ³       471A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ472A
+³   ³       472A_testcases.txt
+³   ³       472A_testcases_hidden.txt
+³   ³       472A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ474A
+³   ³       474A_testcases.txt
+³   ³       474A_testcases_hidden.txt
+³   ³       474A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ475A
+³   ³       475A_testcases.txt
+³   ³       475A_testcases_hidden.txt
+³   ³       475A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ476A
+³   ³       476A_testcases.txt
+³   ³       476A_testcases_hidden.txt
+³   ³       476A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ478A
+³   ³       478A_testcases.txt
+³   ³       478A_testcases_hidden.txt
+³   ³       478A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ479A
+³   ³       479A_testcases.txt
+³   ³       479A_testcases_hidden.txt
+³   ³       479A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ47A
+³   ³       47A_testcases.txt
+³   ³       47A_testcases_hidden.txt
+³   ³       47A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ482A
+³   ³       482A_testcases.txt
+³   ³       482A_testcases_hidden.txt
+³   ³       482A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ483A
+³   ³       483A_testcases.txt
+³   ³       483A_testcases_hidden.txt
+³   ³       483A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ484A
+³   ³       484A_testcases.txt
+³   ³       484A_testcases_custom.txt
+³   ³       484A_testcases_hidden.txt
+³   ³       484A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ485A
+³   ³       485A_testcases.txt
+³   ³       485A_testcases_hidden.txt
+³   ³       485A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ486A
+³   ³       486A_testcases.txt
+³   ³       486A_testcases_hidden.txt
+³   ³       486A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ487A
+³   ³       487A_testcases.txt
+³   ³       487A_testcases_hidden.txt
+³   ³       487A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ488A
+³   ³       488A_testcases.txt
+³   ³       488A_testcases_hidden.txt
+³   ³       488A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ48A
+³   ³       48A_testcases.txt
+³   ³       48A_testcases_hidden.txt
+³   ³       48A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ490A
+³   ³       490A_testcases.txt
+³   ³       490A_testcases_hidden.txt
+³   ³       490A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ492A
+³   ³       492A_testcases.txt
+³   ³       492A_testcases_hidden.txt
+³   ³       492A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ494A
+³   ³       494A_testcases.txt
+³   ³       494A_testcases_hidden.txt
+³   ³       494A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ495A
+³   ³       495A_testcases.txt
+³   ³       495A_testcases_hidden.txt
+³   ³       495A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ496A
+³   ³       496A_testcases.txt
+³   ³       496A_testcases_hidden.txt
+³   ³       496A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ498A
+³   ³       498A_testcases.txt
+³   ³       498A_testcases_hidden.txt
+³   ³       498A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ499A
+³   ³       499A_testcases.txt
+³   ³       499A_testcases_hidden.txt
+³   ³       499A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ49A
+³   ³       49A_testcases.txt
+³   ³       49A_testcases_hidden.txt
+³   ³       49A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ4A
+³   ³       4A_testcases.txt
+³   ³       4A_testcases_hidden.txt
+³   ³       4A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ500A
+³   ³       500A_testcases.txt
+³   ³       500A_testcases_hidden.txt
+³   ³       500A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ501A
+³   ³       501A_testcases.txt
+³   ³       501A_testcases_hidden.txt
+³   ³       501A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ505A
+³   ³       505A_testcases.txt
+³   ³       505A_testcases_hidden.txt
+³   ³       505A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ508A
+³   ³       508A_testcases.txt
+³   ³       508A_testcases_hidden.txt
+³   ³       508A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ509A
+³   ³       509A_testcases.txt
+³   ³       509A_testcases_hidden.txt
+³   ³       509A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ50A
+³   ³       50A_testcases.txt
+³   ³       50A_testcases_hidden.txt
+³   ³       50A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ510A
+³   ³       510A_testcases.txt
+³   ³       510A_testcases_hidden.txt
+³   ³       510A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ513A
+³   ³       513A_testcases.txt
+³   ³       513A_testcases_hidden.txt
+³   ³       513A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ514A
+³   ³       514A_testcases.txt
+³   ³       514A_testcases_hidden.txt
+³   ³       514A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ515A
+³   ³       515A_testcases.txt
+³   ³       515A_testcases_hidden.txt
+³   ³       515A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ51A
+³   ³       51A_testcases.txt
+³   ³       51A_testcases_hidden.txt
+³   ³       51A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ52A
+³   ³       52A_testcases.txt
+³   ³       52A_testcases_hidden.txt
+³   ³       52A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ53A
+³   ³       53A_testcases.txt
+³   ³       53A_testcases_hidden.txt
+³   ³       53A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ540A
+³   ³       540A_testcases.txt
+³   ³       540A_testcases_hidden.txt
+³   ³       540A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ543A
+³   ³       543A_testcases.txt
+³   ³       543A_testcases_hidden.txt
+³   ³       543A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ544A
+³   ³       544A_testcases.txt
+³   ³       544A_testcases_hidden.txt
+³   ³       544A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ545A
+³   ³       545A_testcases.txt
+³   ³       545A_testcases_custom.txt
+³   ³       545A_testcases_hidden.txt
+³   ³       545A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ546A
+³   ³       546A_testcases.txt
+³   ³       546A_testcases_hidden.txt
+³   ³       546A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ547A
+³   ³       547A_testcases.txt
+³   ³       547A_testcases_hidden.txt
+³   ³       547A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ548A
+³   ³       548A_testcases.txt
+³   ³       548A_testcases_hidden.txt
+³   ³       548A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ549A
+³   ³       549A_testcases.txt
+³   ³       549A_testcases_hidden.txt
+³   ³       549A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ54A
+³   ³       54A_testcases.txt
+³   ³       54A_testcases_hidden.txt
+³   ³       54A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ550A
+³   ³       550A_testcases.txt
+³   ³       550A_testcases_hidden.txt
+³   ³       550A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ551A
+³   ³       551A_testcases.txt
+³   ³       551A_testcases_hidden.txt
+³   ³       551A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ552A
+³   ³       552A_testcases.txt
+³   ³       552A_testcases_hidden.txt
+³   ³       552A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ553A
+³   ³       553A_testcases.txt
+³   ³       553A_testcases_hidden.txt
+³   ³       553A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ554A
+³   ³       554A_testcases.txt
+³   ³       554A_testcases_hidden.txt
+³   ³       554A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ555A
+³   ³       555A_testcases.txt
+³   ³       555A_testcases_hidden.txt
+³   ³       555A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ556A
+³   ³       556A_testcases.txt
+³   ³       556A_testcases_hidden.txt
+³   ³       556A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ557A
+³   ³       557A_testcases.txt
+³   ³       557A_testcases_hidden.txt
+³   ³       557A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ558A
+³   ³       558A_testcases.txt
+³   ³       558A_testcases_hidden.txt
+³   ³       558A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ559A
+³   ³       559A_testcases.txt
+³   ³       559A_testcases_hidden.txt
+³   ³       559A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ55A
+³   ³       55A_testcases.txt
+³   ³       55A_testcases_hidden.txt
+³   ³       55A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ560A
+³   ³       560A_testcases.txt
+³   ³       560A_testcases_hidden.txt
+³   ³       560A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ568A
+³   ³       568A_testcases.txt
+³   ³       568A_testcases_hidden.txt
+³   ³       568A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ569A
+³   ³       569A_testcases.txt
+³   ³       569A_testcases_hidden.txt
+³   ³       569A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ56A
+³   ³       56A_testcases.txt
+³   ³       56A_testcases_custom.txt
+³   ³       56A_testcases_hidden.txt
+³   ³       56A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ570A
+³   ³       570A_testcases.txt
+³   ³       570A_testcases_hidden.txt
+³   ³       570A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ571A
+³   ³       571A_testcases.txt
+³   ³       571A_testcases_hidden.txt
+³   ³       571A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ572A
+³   ³       572A_testcases.txt
+³   ³       572A_testcases_hidden.txt
+³   ³       572A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ573A
+³   ³       573A_testcases.txt
+³   ³       573A_testcases_hidden.txt
+³   ³       573A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ574A
+³   ³       574A_testcases.txt
+³   ³       574A_testcases_hidden.txt
+³   ³       574A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ576A
+³   ³       576A_testcases.txt
+³   ³       576A_testcases_hidden.txt
+³   ³       576A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ577A
+³   ³       577A_testcases.txt
+³   ³       577A_testcases_hidden.txt
+³   ³       577A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ578A
+³   ³       578A_testcases.txt
+³   ³       578A_testcases_hidden.txt
+³   ³       578A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ579A
+³   ³       579A_testcases.txt
+³   ³       579A_testcases_hidden.txt
+³   ³       579A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ57A
+³   ³       57A_testcases.txt
+³   ³       57A_testcases_hidden.txt
+³   ³       57A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ580A
+³   ³       580A_testcases.txt
+³   ³       580A_testcases_hidden.txt
+³   ³       580A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ581A
+³   ³       581A_testcases.txt
+³   ³       581A_testcases_hidden.txt
+³   ³       581A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ582A
+³   ³       582A_testcases.txt
+³   ³       582A_testcases_hidden.txt
+³   ³       582A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ583A
+³   ³       583A_testcases.txt
+³   ³       583A_testcases_hidden.txt
+³   ³       583A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ584A
+³   ³       584A_testcases.txt
+³   ³       584A_testcases_hidden.txt
+³   ³       584A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ586A
+³   ³       586A_testcases.txt
+³   ³       586A_testcases_hidden.txt
+³   ³       586A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ587A
+³   ³       587A_testcases.txt
+³   ³       587A_testcases_hidden.txt
+³   ³       587A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ588A
+³   ³       588A_testcases.txt
+³   ³       588A_testcases_custom.txt
+³   ³       588A_testcases_hidden.txt
+³   ³       588A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ58A
+³   ³       58A_testcases.txt
+³   ³       58A_testcases_hidden.txt
+³   ³       58A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ590A
+³   ³       590A_testcases.txt
+³   ³       590A_testcases_hidden.txt
+³   ³       590A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ591A
+³   ³       591A_testcases.txt
+³   ³       591A_testcases_hidden.txt
+³   ³       591A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ592A
+³   ³       592A_testcases.txt
+³   ³       592A_testcases_hidden.txt
+³   ³       592A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ593A
+³   ³       593A_testcases.txt
+³   ³       593A_testcases_hidden.txt
+³   ³       593A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ594A
+³   ³       594A_testcases.txt
+³   ³       594A_testcases_hidden.txt
+³   ³       594A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ59A
+³   ³       59A_testcases.txt
+³   ³       59A_testcases_hidden.txt
+³   ³       59A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ5A
+³   ³       5A_testcases.txt
+³   ³       5A_testcases_hidden.txt
+³   ³       5A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ60A
+³   ³       60A_testcases.txt
+³   ³       60A_testcases_hidden.txt
+³   ³       60A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ615A
+³   ³       615A_testcases.txt
+³   ³       615A_testcases_hidden.txt
+³   ³       615A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ616A
+³   ³       616A_testcases.txt
+³   ³       616A_testcases_hidden.txt
+³   ³       616A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ617A
+³   ³       617A_testcases.txt
+³   ³       617A_testcases_hidden.txt
+³   ³       617A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ61A
+³   ³       61A_testcases.txt
+³   ³       61A_testcases_hidden.txt
+³   ³       61A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ620A
+³   ³       620A_testcases.txt
+³   ³       620A_testcases_hidden.txt
+³   ³       620A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ621A
+³   ³       621A_testcases.txt
+³   ³       621A_testcases_hidden.txt
+³   ³       621A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ622A
+³   ³       622A_testcases.txt
+³   ³       622A_testcases_hidden.txt
+³   ³       622A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ624A
+³   ³       624A_testcases.txt
+³   ³       624A_testcases_hidden.txt
+³   ³       624A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ625A
+³   ³       625A_testcases.txt
+³   ³       625A_testcases_hidden.txt
+³   ³       625A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ626A
+³   ³       626A_testcases.txt
+³   ³       626A_testcases_hidden.txt
+³   ³       626A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ627A
+³   ³       627A_testcases.txt
+³   ³       627A_testcases_hidden.txt
+³   ³       627A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ628A
+³   ³       628A_testcases.txt
+³   ³       628A_testcases_hidden.txt
+³   ³       628A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ629A
+³   ³       629A_testcases.txt
+³   ³       629A_testcases_hidden.txt
+³   ³       629A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ62A
+³   ³       62A_testcases.txt
+³   ³       62A_testcases_hidden.txt
+³   ³       62A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ630A
+³   ³       630A_testcases.txt
+³   ³       630A_testcases_custom.txt
+³   ³       630A_testcases_hidden.txt
+³   ³       630A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ630R
+³   ³       630R_testcases.txt
+³   ³       630R_testcases_hidden.txt
+³   ³       630R_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ631A
+³   ³       631A_testcases.txt
+³   ³       631A_testcases_hidden.txt
+³   ³       631A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ632A
+³   ³       632A_testcases.txt
+³   ³       632A_testcases_hidden.txt
+³   ³       632A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ633A
+³   ³       633A_testcases.txt
+³   ³       633A_testcases_hidden.txt
+³   ³       633A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ63A
+³   ³       63A_testcases.txt
+³   ³       63A_testcases_hidden.txt
+³   ³       63A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ65A
+³   ³       65A_testcases.txt
+³   ³       65A_testcases_hidden.txt
+³   ³       65A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ662A
+³   ³       662A_testcases.txt
+³   ³       662A_testcases_hidden.txt
+³   ³       662A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ663A
+³   ³       663A_testcases.txt
+³   ³       663A_testcases_hidden.txt
+³   ³       663A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ664A
+³   ³       664A_testcases.txt
+³   ³       664A_testcases_hidden.txt
+³   ³       664A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ66A
+³   ³       66A_testcases.txt
+³   ³       66A_testcases_hidden.txt
+³   ³       66A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ67A
+³   ³       67A_testcases.txt
+³   ³       67A_testcases_hidden.txt
+³   ³       67A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ685A
+³   ³       685A_testcases.txt
+³   ³       685A_testcases_hidden.txt
+³   ³       685A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ686A
+³   ³       686A_testcases.txt
+³   ³       686A_testcases_hidden.txt
+³   ³       686A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ688A
+³   ³       688A_testcases.txt
+³   ³       688A_testcases_hidden.txt
+³   ³       688A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ689A
+³   ³       689A_testcases.txt
+³   ³       689A_testcases_hidden.txt
+³   ³       689A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ68A
+³   ³       68A_testcases.txt
+³   ³       68A_testcases_hidden.txt
+³   ³       68A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ690A2
+³   ³       690A2_testcases.txt
+³   ³       690A2_testcases_hidden.txt
+³   ³       690A2_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ690A3
+³   ³       690A3_testcases.txt
+³   ³       690A3_testcases_custom.txt
+³   ³       690A3_testcases_hidden.txt
+³   ³       690A3_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ691A
+³   ³       691A_testcases.txt
+³   ³       691A_testcases_hidden.txt
+³   ³       691A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ696A
+³   ³       696A_testcases.txt
+³   ³       696A_testcases_hidden.txt
+³   ³       696A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ697A
+³   ³       697A_testcases.txt
+³   ³       697A_testcases_hidden.txt
+³   ³       697A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ698A
+³   ³       698A_testcases.txt
+³   ³       698A_testcases_hidden.txt
+³   ³       698A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ699A
+³   ³       699A_testcases.txt
+³   ³       699A_testcases_hidden.txt
+³   ³       699A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ69A
+³   ³       69A_testcases.txt
+³   ³       69A_testcases_hidden.txt
+³   ³       69A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ6A
+³   ³       6A_testcases.txt
+³   ³       6A_testcases_hidden.txt
+³   ³       6A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ702A
+³   ³       702A_testcases.txt
+³   ³       702A_testcases_hidden.txt
+³   ³       702A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ703A
+³   ³       703A_testcases.txt
+³   ³       703A_testcases_hidden.txt
+³   ³       703A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ704A
+³   ³       704A_testcases.txt
+³   ³       704A_testcases_custom.txt
+³   ³       704A_testcases_hidden.txt
+³   ³       704A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ705A
+³   ³       705A_testcases.txt
+³   ³       705A_testcases_hidden.txt
+³   ³       705A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ706A
+³   ³       706A_testcases.txt
+³   ³       706A_testcases_hidden.txt
+³   ³       706A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ707A
+³   ³       707A_testcases.txt
+³   ³       707A_testcases_hidden.txt
+³   ³       707A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ708A
+³   ³       708A_testcases.txt
+³   ³       708A_testcases_hidden.txt
+³   ³       708A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ709A
+³   ³       709A_testcases.txt
+³   ³       709A_testcases_hidden.txt
+³   ³       709A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ70A
+³   ³       70A_testcases.txt
+³   ³       70A_testcases_hidden.txt
+³   ³       70A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ710A
+³   ³       710A_testcases.txt
+³   ³       710A_testcases_hidden.txt
+³   ³       710A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ711A
+³   ³       711A_testcases.txt
+³   ³       711A_testcases_hidden.txt
+³   ³       711A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ712A
+³   ³       712A_testcases.txt
+³   ³       712A_testcases_hidden.txt
+³   ³       712A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ713A
+³   ³       713A_testcases.txt
+³   ³       713A_testcases_hidden.txt
+³   ³       713A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ714A
+³   ³       714A_testcases.txt
+³   ³       714A_testcases_hidden.txt
+³   ³       714A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ715A
+³   ³       715A_testcases.txt
+³   ³       715A_testcases_custom.txt
+³   ³       715A_testcases_hidden.txt
+³   ³       715A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ716A
+³   ³       716A_testcases.txt
+³   ³       716A_testcases_hidden.txt
+³   ³       716A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ718A
+³   ³       718A_testcases.txt
+³   ³       718A_testcases_hidden.txt
+³   ³       718A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ719A
+³   ³       719A_testcases.txt
+³   ³       719A_testcases_hidden.txt
+³   ³       719A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ71A
+³   ³       71A_testcases.txt
+³   ³       71A_testcases_hidden.txt
+³   ³       71A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ721A
+³   ³       721A_testcases.txt
+³   ³       721A_testcases_hidden.txt
+³   ³       721A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ723A
+³   ³       723A_testcases.txt
+³   ³       723A_testcases_hidden.txt
+³   ³       723A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ724A
+³   ³       724A_testcases.txt
+³   ³       724A_testcases_hidden.txt
+³   ³       724A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ725A
+³   ³       725A_testcases.txt
+³   ³       725A_testcases_hidden.txt
+³   ³       725A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ727A
+³   ³       727A_testcases.txt
+³   ³       727A_testcases_hidden.txt
+³   ³       727A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ729A
+³   ³       729A_testcases.txt
+³   ³       729A_testcases_hidden.txt
+³   ³       729A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ731A
+³   ³       731A_testcases.txt
+³   ³       731A_testcases_hidden.txt
+³   ³       731A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ732A
+³   ³       732A_testcases.txt
+³   ³       732A_testcases_hidden.txt
+³   ³       732A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ733A
+³   ³       733A_testcases.txt
+³   ³       733A_testcases_hidden.txt
+³   ³       733A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ734A
+³   ³       734A_testcases.txt
+³   ³       734A_testcases_hidden.txt
+³   ³       734A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ735A
+³   ³       735A_testcases.txt
+³   ³       735A_testcases_hidden.txt
+³   ³       735A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ739A
+³   ³       739A_testcases.txt
+³   ³       739A_testcases_hidden.txt
+³   ³       739A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ73A
+³   ³       73A_testcases.txt
+³   ³       73A_testcases_hidden.txt
+³   ³       73A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ740A
+³   ³       740A_testcases.txt
+³   ³       740A_testcases_hidden.txt
+³   ³       740A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ741A
+³   ³       741A_testcases.txt
+³   ³       741A_testcases_hidden.txt
+³   ³       741A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ742A
+³   ³       742A_testcases.txt
+³   ³       742A_testcases_hidden.txt
+³   ³       742A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ743A
+³   ³       743A_testcases.txt
+³   ³       743A_testcases_hidden.txt
+³   ³       743A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ744A
+³   ³       744A_testcases.txt
+³   ³       744A_testcases_hidden.txt
+³   ³       744A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ745A
+³   ³       745A_testcases.txt
+³   ³       745A_testcases_hidden.txt
+³   ³       745A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ746A
+³   ³       746A_testcases.txt
+³   ³       746A_testcases_hidden.txt
+³   ³       746A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ747A
+³   ³       747A_testcases.txt
+³   ³       747A_testcases_hidden.txt
+³   ³       747A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ748A
+³   ³       748A_testcases.txt
+³   ³       748A_testcases_hidden.txt
+³   ³       748A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ749A
+³   ³       749A_testcases.txt
+³   ³       749A_testcases_hidden.txt
+³   ³       749A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ74A
+³   ³       74A_testcases.txt
+³   ³       74A_testcases_hidden.txt
+³   ³       74A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ750A
+³   ³       750A_testcases.txt
+³   ³       750A_testcases_hidden.txt
+³   ³       750A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ754A
+³   ³       754A_testcases.txt
+³   ³       754A_testcases_hidden.txt
+³   ³       754A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ755A
+³   ³       755A_testcases.txt
+³   ³       755A_testcases_hidden.txt
+³   ³       755A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ756A
+³   ³       756A_testcases.txt
+³   ³       756A_testcases_hidden.txt
+³   ³       756A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ757A
+³   ³       757A_testcases.txt
+³   ³       757A_testcases_hidden.txt
+³   ³       757A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ758A
+³   ³       758A_testcases.txt
+³   ³       758A_testcases_hidden.txt
+³   ³       758A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ75A
+³   ³       75A_testcases.txt
+³   ³       75A_testcases_hidden.txt
+³   ³       75A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ760A
+³   ³       760A_testcases.txt
+³   ³       760A_testcases_hidden.txt
+³   ³       760A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ761A
+³   ³       761A_testcases.txt
+³   ³       761A_testcases_hidden.txt
+³   ³       761A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ762A
+³   ³       762A_testcases.txt
+³   ³       762A_testcases_hidden.txt
+³   ³       762A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ764A
+³   ³       764A_testcases.txt
+³   ³       764A_testcases_hidden.txt
+³   ³       764A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ765A
+³   ³       765A_testcases.txt
+³   ³       765A_testcases_hidden.txt
+³   ³       765A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ766A
+³   ³       766A_testcases.txt
+³   ³       766A_testcases_hidden.txt
+³   ³       766A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ768A
+³   ³       768A_testcases.txt
+³   ³       768A_testcases_hidden.txt
+³   ³       768A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ769A
+³   ³       769A_testcases.txt
+³   ³       769A_testcases_hidden.txt
+³   ³       769A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ770A
+³   ³       770A_testcases.txt
+³   ³       770A_testcases_hidden.txt
+³   ³       770A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ771A
+³   ³       771A_testcases.txt
+³   ³       771A_testcases_hidden.txt
+³   ³       771A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ773A
+³   ³       773A_testcases.txt
+³   ³       773A_testcases_hidden.txt
+³   ³       773A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ774A
+³   ³       774A_testcases.txt
+³   ³       774A_testcases_hidden.txt
+³   ³       774A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ776A
+³   ³       776A_testcases.txt
+³   ³       776A_testcases_hidden.txt
+³   ³       776A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ777A
+³   ³       777A_testcases.txt
+³   ³       777A_testcases_hidden.txt
+³   ³       777A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ778A
+³   ³       778A_testcases.txt
+³   ³       778A_testcases_custom.txt
+³   ³       778A_testcases_hidden.txt
+³   ³       778A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ779A
+³   ³       779A_testcases.txt
+³   ³       779A_testcases_hidden.txt
+³   ³       779A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ77A
+³   ³       77A_testcases.txt
+³   ³       77A_testcases_hidden.txt
+³   ³       77A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ780A
+³   ³       780A_testcases.txt
+³   ³       780A_testcases_hidden.txt
+³   ³       780A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ784A
+³   ³       784A_testcases.txt
+³   ³       784A_testcases_hidden.txt
+³   ³       784A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ785A
+³   ³       785A_testcases.txt
+³   ³       785A_testcases_hidden.txt
+³   ³       785A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ787A
+³   ³       787A_testcases.txt
+³   ³       787A_testcases_hidden.txt
+³   ³       787A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ788A
+³   ³       788A_testcases.txt
+³   ³       788A_testcases_hidden.txt
+³   ³       788A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ789A
+³   ³       789A_testcases.txt
+³   ³       789A_testcases_hidden.txt
+³   ³       789A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ791A
+³   ³       791A_testcases.txt
+³   ³       791A_testcases_hidden.txt
+³   ³       791A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ792A
+³   ³       792A_testcases.txt
+³   ³       792A_testcases_hidden.txt
+³   ³       792A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ793A
+³   ³       793A_testcases.txt
+³   ³       793A_testcases_hidden.txt
+³   ³       793A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ794A
+³   ³       794A_testcases.txt
+³   ³       794A_testcases_hidden.txt
+³   ³       794A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ796A
+³   ³       796A_testcases.txt
+³   ³       796A_testcases_hidden.txt
+³   ³       796A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ797A
+³   ³       797A_testcases.txt
+³   ³       797A_testcases_hidden.txt
+³   ³       797A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ798A
+³   ³       798A_testcases.txt
+³   ³       798A_testcases_hidden.txt
+³   ³       798A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ799A
+³   ³       799A_testcases.txt
+³   ³       799A_testcases_hidden.txt
+³   ³       799A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ79A
+³   ³       79A_testcases.txt
+³   ³       79A_testcases_hidden.txt
+³   ³       79A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ7A
+³   ³       7A_testcases.txt
+³   ³       7A_testcases_hidden.txt
+³   ³       7A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ801A
+³   ³       801A_testcases.txt
+³   ³       801A_testcases_hidden.txt
+³   ³       801A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ802A
+³   ³       802A_testcases.txt
+³   ³       802A_testcases_hidden.txt
+³   ³       802A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ80A
+³   ³       80A_testcases.txt
+³   ³       80A_testcases_hidden.txt
+³   ³       80A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ812A
+³   ³       812A_testcases.txt
+³   ³       812A_testcases_hidden.txt
+³   ³       812A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ813A
+³   ³       813A_testcases.txt
+³   ³       813A_testcases_hidden.txt
+³   ³       813A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ814A
+³   ³       814A_testcases.txt
+³   ³       814A_testcases_hidden.txt
+³   ³       814A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ815A
+³   ³       815A_testcases.txt
+³   ³       815A_testcases_hidden.txt
+³   ³       815A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ816A
+³   ³       816A_testcases.txt
+³   ³       816A_testcases_hidden.txt
+³   ³       816A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ817A
+³   ³       817A_testcases.txt
+³   ³       817A_testcases_hidden.txt
+³   ³       817A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ818A
+³   ³       818A_testcases.txt
+³   ³       818A_testcases_hidden.txt
+³   ³       818A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ819A
+³   ³       819A_testcases.txt
+³   ³       819A_testcases_hidden.txt
+³   ³       819A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ81A
+³   ³       81A_testcases.txt
+³   ³       81A_testcases_hidden.txt
+³   ³       81A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ820A
+³   ³       820A_testcases.txt
+³   ³       820A_testcases_hidden.txt
+³   ³       820A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ821A
+³   ³       821A_testcases.txt
+³   ³       821A_testcases_hidden.txt
+³   ³       821A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ822A
+³   ³       822A_testcases.txt
+³   ³       822A_testcases_hidden.txt
+³   ³       822A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ825A
+³   ³       825A_testcases.txt
+³   ³       825A_testcases_hidden.txt
+³   ³       825A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ827A
+³   ³       827A_testcases.txt
+³   ³       827A_testcases_hidden.txt
+³   ³       827A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ828A
+³   ³       828A_testcases.txt
+³   ³       828A_testcases_hidden.txt
+³   ³       828A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ82A
+³   ³       82A_testcases.txt
+³   ³       82A_testcases_hidden.txt
+³   ³       82A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ830A
+³   ³       830A_testcases.txt
+³   ³       830A_testcases_hidden.txt
+³   ³       830A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ831A
+³   ³       831A_testcases.txt
+³   ³       831A_testcases_hidden.txt
+³   ³       831A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ832A
+³   ³       832A_testcases.txt
+³   ³       832A_testcases_hidden.txt
+³   ³       832A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ833A
+³   ³       833A_testcases.txt
+³   ³       833A_testcases_hidden.txt
+³   ³       833A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ834A
+³   ³       834A_testcases.txt
+³   ³       834A_testcases_hidden.txt
+³   ³       834A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ835A
+³   ³       835A_testcases.txt
+³   ³       835A_testcases_hidden.txt
+³   ³       835A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ837A
+³   ³       837A_testcases.txt
+³   ³       837A_testcases_hidden.txt
+³   ³       837A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ838A
+³   ³       838A_testcases.txt
+³   ³       838A_testcases_custom.txt
+³   ³       838A_testcases_hidden.txt
+³   ³       838A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ839A
+³   ³       839A_testcases.txt
+³   ³       839A_testcases_hidden.txt
+³   ³       839A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ83A
+³   ³       83A_testcases.txt
+³   ³       83A_testcases_hidden.txt
+³   ³       83A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ840A
+³   ³       840A_testcases.txt
+³   ³       840A_testcases_custom.txt
+³   ³       840A_testcases_hidden.txt
+³   ³       840A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ841A
+³   ³       841A_testcases.txt
+³   ³       841A_testcases_hidden.txt
+³   ³       841A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ842A
+³   ³       842A_testcases.txt
+³   ³       842A_testcases_hidden.txt
+³   ³       842A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ844A
+³   ³       844A_testcases.txt
+³   ³       844A_testcases_hidden.txt
+³   ³       844A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ845A
+³   ³       845A_testcases.txt
+³   ³       845A_testcases_hidden.txt
+³   ³       845A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ846A
+³   ³       846A_testcases.txt
+³   ³       846A_testcases_hidden.txt
+³   ³       846A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ84A
+³   ³       84A_testcases.txt
+³   ³       84A_testcases_hidden.txt
+³   ³       84A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ869A
+³   ³       869A_testcases.txt
+³   ³       869A_testcases_hidden.txt
+³   ³       869A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ86A
+³   ³       86A_testcases.txt
+³   ³       86A_testcases_hidden.txt
+³   ³       86A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ870A
+³   ³       870A_testcases.txt
+³   ³       870A_testcases_hidden.txt
+³   ³       870A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ873A
+³   ³       873A_testcases.txt
+³   ³       873A_testcases_hidden.txt
+³   ³       873A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ875A
+³   ³       875A_testcases.txt
+³   ³       875A_testcases_hidden.txt
+³   ³       875A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ876A
+³   ³       876A_testcases.txt
+³   ³       876A_testcases_hidden.txt
+³   ³       876A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ877A
+³   ³       877A_testcases.txt
+³   ³       877A_testcases_hidden.txt
+³   ³       877A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ878A
+³   ³       878A_testcases.txt
+³   ³       878A_testcases_hidden.txt
+³   ³       878A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ879A
+³   ³       879A_testcases.txt
+³   ³       879A_testcases_hidden.txt
+³   ³       879A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ87A
+³   ³       87A_testcases.txt
+³   ³       87A_testcases_hidden.txt
+³   ³       87A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ883A
+³   ³       883A_testcases.txt
+³   ³       883A_testcases_hidden.txt
+³   ³       883A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ884A
+³   ³       884A_testcases.txt
+³   ³       884A_testcases_hidden.txt
+³   ³       884A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ886A
+³   ³       886A_testcases.txt
+³   ³       886A_testcases_hidden.txt
+³   ³       886A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ887A
+³   ³       887A_testcases.txt
+³   ³       887A_testcases_hidden.txt
+³   ³       887A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ888A
+³   ³       888A_testcases.txt
+³   ³       888A_testcases_hidden.txt
+³   ³       888A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ88A
+³   ³       88A_testcases.txt
+³   ³       88A_testcases_hidden.txt
+³   ³       88A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ891A
+³   ³       891A_testcases.txt
+³   ³       891A_testcases_hidden.txt
+³   ³       891A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ892A
+³   ³       892A_testcases.txt
+³   ³       892A_testcases_hidden.txt
+³   ³       892A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ893A
+³   ³       893A_testcases.txt
+³   ³       893A_testcases_hidden.txt
+³   ³       893A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ894A
+³   ³       894A_testcases.txt
+³   ³       894A_testcases_hidden.txt
+³   ³       894A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ895A
+³   ³       895A_testcases.txt
+³   ³       895A_testcases_hidden.txt
+³   ³       895A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ897A
+³   ³       897A_testcases.txt
+³   ³       897A_testcases_hidden.txt
+³   ³       897A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ898A
+³   ³       898A_testcases.txt
+³   ³       898A_testcases_hidden.txt
+³   ³       898A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ899A
+³   ³       899A_testcases.txt
+³   ³       899A_testcases_hidden.txt
+³   ³       899A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ89A
+³   ³       89A_testcases.txt
+³   ³       89A_testcases_hidden.txt
+³   ³       89A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ8A
+³   ³       8A_testcases.txt
+³   ³       8A_testcases_hidden.txt
+³   ³       8A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ900A
+³   ³       900A_testcases.txt
+³   ³       900A_testcases_hidden.txt
+³   ³       900A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ902A
+³   ³       902A_testcases.txt
+³   ³       902A_testcases_hidden.txt
+³   ³       902A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ906A
+³   ³       906A_testcases.txt
+³   ³       906A_testcases_hidden.txt
+³   ³       906A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ908A
+³   ³       908A_testcases.txt
+³   ³       908A_testcases_hidden.txt
+³   ³       908A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ909A
+³   ³       909A_testcases.txt
+³   ³       909A_testcases_hidden.txt
+³   ³       909A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ90A
+³   ³       90A_testcases.txt
+³   ³       90A_testcases_hidden.txt
+³   ³       90A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ910A
+³   ³       910A_testcases.txt
+³   ³       910A_testcases_hidden.txt
+³   ³       910A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ911A
+³   ³       911A_testcases.txt
+³   ³       911A_testcases_hidden.txt
+³   ³       911A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ912A
+³   ³       912A_testcases.txt
+³   ³       912A_testcases_hidden.txt
+³   ³       912A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ913A
+³   ³       913A_testcases.txt
+³   ³       913A_testcases_hidden.txt
+³   ³       913A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ914A
+³   ³       914A_testcases.txt
+³   ³       914A_testcases_hidden.txt
+³   ³       914A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ915A
+³   ³       915A_testcases.txt
+³   ³       915A_testcases_hidden.txt
+³   ³       915A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ916A
+³   ³       916A_testcases.txt
+³   ³       916A_testcases_hidden.txt
+³   ³       916A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ917A
+³   ³       917A_testcases.txt
+³   ³       917A_testcases_hidden.txt
+³   ³       917A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ91A
+³   ³       91A_testcases.txt
+³   ³       91A_testcases_hidden.txt
+³   ³       91A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ92A
+³   ³       92A_testcases.txt
+³   ³       92A_testcases_hidden.txt
+³   ³       92A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ937A
+³   ³       937A_testcases.txt
+³   ³       937A_testcases_hidden.txt
+³   ³       937A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ938A
+³   ³       938A_testcases.txt
+³   ³       938A_testcases_hidden.txt
+³   ³       938A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ939A
+³   ³       939A_testcases.txt
+³   ³       939A_testcases_hidden.txt
+³   ³       939A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ93A
+³   ³       93A_testcases.txt
+³   ³       93A_testcases_hidden.txt
+³   ³       93A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ940A
+³   ³       940A_testcases.txt
+³   ³       940A_testcases_hidden.txt
+³   ³       940A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ946A
+³   ³       946A_testcases.txt
+³   ³       946A_testcases_hidden.txt
+³   ³       946A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ948A
+³   ³       948A_testcases.txt
+³   ³       948A_testcases_hidden.txt
+³   ³       948A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ94A
+³   ³       94A_testcases.txt
+³   ³       94A_testcases_hidden.txt
+³   ³       94A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ950A
+³   ³       950A_testcases.txt
+³   ³       950A_testcases_hidden.txt
+³   ³       950A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ952A
+³   ³       952A_testcases.txt
+³   ³       952A_testcases_hidden.txt
+³   ³       952A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ954A
+³   ³       954A_testcases.txt
+³   ³       954A_testcases_hidden.txt
+³   ³       954A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ955A
+³   ³       955A_testcases.txt
+³   ³       955A_testcases_hidden.txt
+³   ³       955A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ957A
+³   ³       957A_testcases.txt
+³   ³       957A_testcases_hidden.txt
+³   ³       957A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ958A1
+³   ³       958A1_testcases.txt
+³   ³       958A1_testcases_hidden.txt
+³   ³       958A1_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ958A2
+³   ³       958A2_testcases.txt
+³   ³       958A2_testcases_custom.txt
+³   ³       958A2_testcases_hidden.txt
+³   ³       958A2_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ959A
+³   ³       959A_testcases.txt
+³   ³       959A_testcases_hidden.txt
+³   ³       959A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ95A
+³   ³       95A_testcases.txt
+³   ³       95A_testcases_hidden.txt
+³   ³       95A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ960A
+³   ³       960A_testcases.txt
+³   ³       960A_testcases_hidden.txt
+³   ³       960A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ961A
+³   ³       961A_testcases.txt
+³   ³       961A_testcases_hidden.txt
+³   ³       961A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ962A
+³   ³       962A_testcases.txt
+³   ³       962A_testcases_hidden.txt
+³   ³       962A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ963A
+³   ³       963A_testcases.txt
+³   ³       963A_testcases_hidden.txt
+³   ³       963A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ964A
+³   ³       964A_testcases.txt
+³   ³       964A_testcases_hidden.txt
+³   ³       964A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ965A
+³   ³       965A_testcases.txt
+³   ³       965A_testcases_hidden.txt
+³   ³       965A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ967A
+³   ³       967A_testcases.txt
+³   ³       967A_testcases_hidden.txt
+³   ³       967A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ96A
+³   ³       96A_testcases.txt
+³   ³       96A_testcases_hidden.txt
+³   ³       96A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ975A
+³   ³       975A_testcases.txt
+³   ³       975A_testcases_custom.txt
+³   ³       975A_testcases_hidden.txt
+³   ³       975A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ976A
+³   ³       976A_testcases.txt
+³   ³       976A_testcases_hidden.txt
+³   ³       976A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ977A
+³   ³       977A_testcases.txt
+³   ³       977A_testcases_hidden.txt
+³   ³       977A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ978A
+³   ³       978A_testcases.txt
+³   ³       978A_testcases_hidden.txt
+³   ³       978A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ979A
+³   ³       979A_testcases.txt
+³   ³       979A_testcases_hidden.txt
+³   ³       979A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ980A
+³   ³       980A_testcases.txt
+³   ³       980A_testcases_hidden.txt
+³   ³       980A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ981A
+³   ³       981A_testcases.txt
+³   ³       981A_testcases_hidden.txt
+³   ³       981A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ982A
+³   ³       982A_testcases.txt
+³   ³       982A_testcases_hidden.txt
+³   ³       982A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ983A
+³   ³       983A_testcases.txt
+³   ³       983A_testcases_hidden.txt
+³   ³       983A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ984A
+³   ³       984A_testcases.txt
+³   ³       984A_testcases_hidden.txt
+³   ³       984A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ985A
+³   ³       985A_testcases.txt
+³   ³       985A_testcases_hidden.txt
+³   ³       985A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ987A
+³   ³       987A_testcases.txt
+³   ³       987A_testcases_hidden.txt
+³   ³       987A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ988A
+³   ³       988A_testcases.txt
+³   ³       988A_testcases_hidden.txt
+³   ³       988A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ989A
+³   ³       989A_testcases.txt
+³   ³       989A_testcases_hidden.txt
+³   ³       989A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ98A
+³   ³       98A_testcases.txt
+³   ³       98A_testcases_hidden.txt
+³   ³       98A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ990A
+³   ³       990A_testcases.txt
+³   ³       990A_testcases_hidden.txt
+³   ³       990A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ991A
+³   ³       991A_testcases.txt
+³   ³       991A_testcases_hidden.txt
+³   ³       991A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ992A
+³   ³       992A_testcases.txt
+³   ³       992A_testcases_hidden.txt
+³   ³       992A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ993A
+³   ³       993A_testcases.txt
+³   ³       993A_testcases_hidden.txt
+³   ³       993A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ994A
+³   ³       994A_testcases.txt
+³   ³       994A_testcases_hidden.txt
+³   ³       994A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ996A
+³   ³       996A_testcases.txt
+³   ³       996A_testcases_hidden.txt
+³   ³       996A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ997A
+³   ³       997A_testcases.txt
+³   ³       997A_testcases_hidden.txt
+³   ³       997A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ999A
+³   ³       999A_testcases.txt
+³   ³       999A_testcases_hidden.txt
+³   ³       999A_testcases_public.txt
+³   ³       
+³   ÃÄÄÄ99A
+³   ³       99A_testcases.txt
+³   ³       99A_testcases_hidden.txt
+³   ³       99A_testcases_public.txt
+³   ³       
+³   ÀÄÄÄ9A
+³           9A_testcases.txt
+³           9A_testcases_hidden.txt
+³           9A_testcases_public.txt
+³           
+ÀÄÄÄtrain
+    ³   spoc-train.tsv
+    ³   
+    ÀÄÄÄsplit
+            spoc-train-eval.tsv
+            spoc-train-test.tsv
+            spoc-train-train.tsv
+            
