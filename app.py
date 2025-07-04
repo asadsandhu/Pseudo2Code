@@ -1,4 +1,5 @@
-import streamlit as st
+# gradio_app.py
+import gradio as gr
 import torch
 import os
 import math
@@ -10,9 +11,6 @@ import asyncio
 if sys.platform.startswith('win'):
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-# ----------------------------
-# Global Settings & Hyperparameters
-# ----------------------------
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MAX_LEN = 128
 EMBED_DIM = 256
@@ -21,36 +19,25 @@ NUM_ENCODER_LAYERS = 2
 NUM_DECODER_LAYERS = 2
 FF_DIM = 512
 
-# Special tokens
 PAD_TOKEN = "<pad>"
 SOS_TOKEN = "<sos>"
 EOS_TOKEN = "<eos>"
 UNK_TOKEN = "<unk>"
 
-# ----------------------------
-# Helper Functions for Tokenization & Padding
-# ----------------------------
 def tokenize_line(text: str):
-    """Naively tokenize text by splitting on alphanumeric and non-space symbols."""
-    tokens = re.findall(r"[A-Za-z0-9]+|[^\sA-Za-z0-9]", text)
-    return tokens
+    return re.findall(r"[A-Za-z0-9]+|[^\sA-Za-z0-9]", text)
 
 def numericalize(text: str, stoi: dict):
-    """Convert text into a list of token IDs using the given stoi (string-to-index) mapping."""
     tokens = tokenize_line(text)
     return [stoi.get(tok, stoi[UNK_TOKEN]) for tok in tokens]
 
 def pad_sequence(seq, max_len, pad_id):
-    """Pad (or truncate) a sequence to a fixed length, appending EOS token before padding."""
-    seq = seq[:max_len-1]  # Reserve space for EOS
+    seq = seq[:max_len-1]
     seq = seq + [tgt_stoi[EOS_TOKEN]]
     if len(seq) < max_len:
         seq += [pad_id] * (max_len - len(seq))
     return seq
 
-# ----------------------------
-# Model Components
-# ----------------------------
 class PositionalEncoding(nn.Module):
     def __init__(self, d_model, max_len=5000):
         super().__init__()
@@ -59,7 +46,7 @@ class PositionalEncoding(nn.Module):
         div_term = torch.exp(torch.arange(0, d_model, 2).float() * (-math.log(10000.0) / d_model))
         pe[:, 0::2] = torch.sin(position * div_term)
         pe[:, 1::2] = torch.cos(position * div_term)
-        pe = pe.unsqueeze(0)  # shape: (1, max_len, d_model)
+        pe = pe.unsqueeze(0)
         self.register_buffer("pe", pe)
     def forward(self, x):
         return x + self.pe[:, :x.size(1), :]
@@ -168,9 +155,6 @@ class TransformerSeq2Seq(nn.Module):
         memory = self.encoder(src, src_mask)
         return self.decoder(tgt, memory, tgt_mask)
 
-# ----------------------------
-# Inference Helpers
-# ----------------------------
 def generate_subsequent_mask(size):
     mask = torch.triu(torch.ones(size, size), diagonal=1).bool()
     return ~mask
@@ -193,24 +177,16 @@ def greedy_decode(model, src, src_stoi, tgt_stoi, tgt_itos, max_len=MAX_LEN):
         out_tokens = out_tokens[:out_tokens.index(tgt_stoi[EOS_TOKEN])]
     return " ".join(tgt_itos[t] for t in out_tokens)
 
-# ----------------------------
-# Streamlit App
-# ----------------------------
-st.title("PseudoCode to C++ Converter (Transformer from Scratch)")
-
-# Check for model file
+# Load model and vocabulary
 if not os.path.exists("model.pth"):
-    st.error("Model file 'model.pth' not found. Please train first.")
-    st.stop()
+    raise FileNotFoundError("Model file 'model.pth' not found. Please train first.")
 
-# Load the trained model checkpoint and vocab dictionaries
 checkpoint = torch.load("model.pth", map_location=DEVICE)
 src_stoi = checkpoint['src_stoi']
 src_itos = checkpoint['src_itos']
 tgt_stoi = checkpoint['tgt_stoi']
 tgt_itos = checkpoint['tgt_itos']
 
-# Create the model and load the saved state
 model = TransformerSeq2Seq(
     src_vocab_size=len(src_stoi),
     tgt_vocab_size=len(tgt_stoi),
@@ -223,34 +199,31 @@ model = TransformerSeq2Seq(
 model.load_state_dict(checkpoint['model_state_dict'])
 model.eval()
 
-# Set global EOS token for pad_sequence
-# (Note: tgt_stoi[EOS_TOKEN] is used in pad_sequence above)
+def convert_pseudocode(text):
+    lines = text.strip().split('\n')
+    outputs = []
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if not line:
+            outputs.append("")
+        elif line == "}":
+            outputs.append("}")
+        else:
+            try:
+                src_ids = numericalize(line, src_stoi)
+                src_ids = pad_sequence(src_ids, MAX_LEN, src_stoi[PAD_TOKEN])
+                output_line = greedy_decode(model, src_ids, src_stoi, tgt_stoi, tgt_itos)
+                outputs.append(output_line)
+            except Exception as e:
+                outputs.append(f"// [Error in line {i+1}]: {e}")
+    return "int main() {\n" + '\n'.join(outputs) + "\nreturn 0;\n}" 
 
-# User interface for pseudocode input (multi-line)
-user_input = st.text_area("Enter pseudocode (line-by-line):", height=200)
+iface = gr.Interface(
+    fn=convert_pseudocode,
+    inputs=gr.Textbox(label="Enter pseudocode (line-by-line)", lines=10),
+    outputs=gr.Code(language="cpp", label="Generated C++ Code"),
+    title="PseudoCode to C++ Converter (Transformer from Scratch)"
+)
 
-if st.button("Generate C++ code"):
-    if user_input.strip():
-        lines = user_input.strip().split('\n')
-        outputs = []
-
-        for i, line in enumerate(lines):
-            line = line.strip()
-            if not line:
-                outputs.append("")  # preserve blank lines
-            elif line == "}":
-                outputs.append("}")  # 👈 this line handles your request
-            else:
-                try:
-                    src_ids = numericalize(line, src_stoi)
-                    src_ids = pad_sequence(src_ids, MAX_LEN, src_stoi[PAD_TOKEN])
-                    output_line = greedy_decode(model, src_ids, src_stoi, tgt_stoi, tgt_itos)
-                    outputs.append(output_line)
-                except Exception as e:
-                    outputs.append(f"// [Error in line {i+1}]: {e}")
-
-        final_output = "int main() {\n" + '\n'.join(outputs) + "\nreturn 0;" + "\n}"
-        st.subheader("Generated C++ code:")
-        st.code(final_output, language="cpp")
-    else:
-        st.warning("Please enter some pseudocode first.")
+if __name__ == "__main__":
+    iface.launch()
