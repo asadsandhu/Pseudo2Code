@@ -130,21 +130,28 @@ Outputs a `model.pth` file with learned weights and vocab.
 ## 🧩 Example Input
 
 ```text
-Declare variable i and set it to 0
-Repeat while i is less than 10
-Print i
-Increment i by 1
+n , nn, ans = integers with ans =0
+Read n
+for i=2 to n-1 execute
+set nn to n
+while nn is not equal to 0, set ans to ans + nn%i, and also set nn= nn/i
+}
+set o to gcd(ans, n-2)
+print out ans/o "/" (n-2)/o
 ```
 
 ### ⏩ Output C++
 
 ```cpp
 int main() {
-int i = 0;
-while (i < 10) {
-std::cout << i << std::endl;
-i = i + 1;
+int n , nn , ans = 0 ;
+cin > > n ;
+for ( int i = 2 ; i < = n - 1 ; i + + ) {
+nn = n ;
+while ( nn = = 0 ) ans + = nn % i , nn / = i ;
 }
+o = gcd ( ans , n - 2 ) ;
+cout < < ans / 2 / o ( n - 2 ) / o < < endl ;
 return 0;
 }
 ```
