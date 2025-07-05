@@ -1,9 +1,9 @@
-# 🚀 Pseudocode2Cpp – Transformer-based Pseudocode to C++ Converter
+# 🚀 Pseudo2Code – Transformer-based Pseudocode to C++ Converter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-orange)](https://huggingface.co/spaces/asadsandhu/Pseudocode2Cpp)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-asadsandhu/Pseudocode2Cpp-black?logo=github)](https://github.com/asadsandhu/Pseudocode2Cpp)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-orange)](https://huggingface.co/spaces/asadsandhu/Pseudo2Cpp)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-asadsandhu/Pseudo2Cpp-black?logo=github)](https://github.com/asadsandhu/Pseudo2Cpp)
 
 > A fully custom Transformer-based Sequence-to-Sequence model built from scratch in PyTorch to convert human-written pseudocode into executable C++ code. Trained on the [SPoC dataset](https://arxiv.org/abs/2005.04326) from Stanford.
 
@@ -12,7 +12,7 @@
 ## 🖼️ Demo
 
 Try it live on **Hugging Face Spaces**:  
-👉 https://huggingface.co/spaces/asadsandhu/Pseudocode2Cpp
+👉 https://huggingface.co/spaces/asadsandhu/Pseudo2Cpp
 
 ![App Demo](assets/demo.png)
 
@@ -73,8 +73,8 @@ We used the **SPoC dataset** from Stanford:
 ### ⚙️ 1. Clone Repo & Install Requirements
 
 ```bash
-git clone https://github.com/asadsandhu/Pseudocode2Cpp.git
-cd Pseudocode2Cpp
+git clone https://github.com/asadsandhu/Pseudo2Cpp.git
+cd Pseudo2Cpp
 pip install -r requirements.txt
 ````
 
@@ -162,8 +162,8 @@ return 0;
 
 This app is deployed live on:
 
-* **Hugging Face Spaces**: [Pseudocode2Cpp](https://huggingface.co/spaces/asadsandhu/Pseudocode2Cpp)
-* **GitHub**: [github.com/asadsandhu/Pseudocode2Cpp](https://github.com/asadsandhu/Pseudocode2Cpp)
+* **Hugging Face Spaces**: [Pseudo2Cpp](https://huggingface.co/spaces/asadsandhu/Pseudo2Cpp)
+* **GitHub**: [github.com/asadsandhu/Pseudo2Cpp](https://github.com/asadsandhu/Pseudo2Cpp)
 
 ---
 
